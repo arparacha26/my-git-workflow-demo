@@ -1,0 +1,4 @@
+
+mkdir git_workflow_demo
+cd git_workflow_demo
+git init
